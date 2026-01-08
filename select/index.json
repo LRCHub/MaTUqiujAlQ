@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "MALIBU",
+  "base_artist": "百足",
+  "createdAt": "2026-01-08T12:27:17.145044Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Malibu",
+      "artist": "Miley Cyrus",
+      "has_synced": true,
+      "path": "select/01_Malibu_Miley_Cyrus.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "From Cloudy Bay to Malibu",
+      "artist": "Nik Kershaw",
+      "has_synced": true,
+      "path": "select/02_From_Cloudy_Bay_to_Malibu_Nik_Kershaw.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Don't Be Light - Malibu Remix",
+      "artist": "AIR",
+      "has_synced": false,
+      "path": "select/03_Don't_Be_Light_-_Malibu_Remix_AIR.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "malibu bb",
+      "artist": "Luna Shadows",
+      "has_synced": true,
+      "path": "select/04_malibu_bb_Luna_Shadows.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "City Hall / I Believe / Malibu Nights",
+      "artist": "Tenacious D",
+      "has_synced": true,
+      "path": "select/05_City_Hall___I_Believe___Malibu_Nights_Tenacious_D.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "City Hall ⁄ I Believe ⁄ Malibu Nights",
+      "artist": "Tenacious D",
+      "has_synced": true,
+      "path": "select/06_City_Hall_⁄_I_Believe_⁄_Malibu_Nights_Tenacious_D.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Malibu Beach Nightmare",
+      "artist": "Hanoi Rocks",
+      "has_synced": true,
+      "path": "select/07_Malibu_Beach_Nightmare_Hanoi_Rocks.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Malibu",
+      "artist": "Hole",
+      "has_synced": true,
+      "path": "select/08_Malibu_Hole.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Malibu",
+      "artist": "Kim Petras",
+      "has_synced": true,
+      "path": "select/09_Malibu_Kim_Petras.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Malibu",
+      "artist": "Kim Petras",
+      "has_synced": true,
+      "path": "select/10_Malibu_Kim_Petras.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Malibu Gas Station",
+      "artist": "Sonic Youth",
+      "has_synced": true,
+      "path": "select/11_Malibu_Gas_Station_Sonic_Youth.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Underwater Malibu",
+      "artist": "$uicideboy$",
+      "has_synced": true,
+      "path": "select/12_Underwater_Malibu_$uicideboy$.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Malibu",
+      "artist": "Sharon Van Etten",
+      "has_synced": true,
+      "path": "select/13_Malibu_Sharon_Van_Etten.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Malibu Man",
+      "artist": "Dan Auerbach",
+      "has_synced": true,
+      "path": "select/14_Malibu_Man_Dan_Auerbach.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Malibu",
+      "artist": "Virginia To Vegas feat. NOTD",
+      "has_synced": true,
+      "path": "select/15_Malibu_Virginia_To_Vegas_feat._NOTD.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Malibu",
+      "artist": "Virginia To Vegas",
+      "has_synced": true,
+      "path": "select/16_Malibu_Virginia_To_Vegas.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MALIBU (feat. Nozomi Kitay)",
+      "artist": "百足",
+      "has_synced": false,
+      "path": "select/pl_01_MALIBU_(feat._Nozomi_Kitay)_百足.txt"
+    }
+  ]
+}
